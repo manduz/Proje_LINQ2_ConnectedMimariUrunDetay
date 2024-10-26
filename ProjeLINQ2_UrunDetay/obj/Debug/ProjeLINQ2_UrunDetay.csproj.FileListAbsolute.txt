@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\bin\Debug\ProjeLINQ2_UrunDetay.exe.config
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\bin\Debug\ProjeLINQ2_UrunDetay.exe
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\bin\Debug\ProjeLINQ2_UrunDetay.pdb
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.Form1.resources
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.exe
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.pdb
