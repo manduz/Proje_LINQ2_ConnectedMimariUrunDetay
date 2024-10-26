@@ -71,10 +71,25 @@ namespace ProjeLINQ2_UrunDetay
 
                 flowLayoutPanel1.Controls.Add(buton);
 
+                buton.Click += UrunDetayGetir;
+
             }
             sql.Close();
+        }
+        private void UrunDetayGetir(object tiklanilan, EventArgs tikDetay)
+        {
+            Button tiklanilanButton = (Button)tiklanilan;
+            var IDtxt = tiklanilanButton.Name.Remove(0, 1);
 
-
+            sql.Open();
+            SqlCommand cmd = new SqlCommand("select * from Products where ProductID="+ IDtxt,sql);
+            SqlDataReader okuyucu = cmd.ExecuteReader();
+            okuyucu.Read();
+            UrunDetay detay = new UrunDetay();
+            detay.label_UrunAdi.Text = okuyucu["ProductName"].ToString();
+            detay.label3_qpu.Text = okuyucu["QuantityPerUnit"].ToString();
+            detay.Show();
+            sql.Close();
 
         }
     }

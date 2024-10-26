@@ -8,3 +8,4 @@ C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\
 C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.csproj.CoreCompileInputs.cache
 C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.exe
 C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.pdb
+C:\EmekWebRepo\C#\Proje_LINQ2_ConnectedMimariUrunDetay\ProjeLINQ2_UrunDetay\obj\Debug\ProjeLINQ2_UrunDetay.UrunDetay.resources

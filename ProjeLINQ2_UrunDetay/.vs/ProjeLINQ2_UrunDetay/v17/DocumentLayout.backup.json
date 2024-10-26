@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|c:\\emekwebrepo\\c#\\proje_linq2_connectedmimariurundetay\\projelinq2_urundetay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|c:\\emekwebrepo\\c#\\proje_linq2_connectedmimariurundetay\\projelinq2_urundetay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|c:\\emekwebrepo\\c#\\proje_linq2_connectedmimariurundetay\\projelinq2_urundetay\\urundetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:urundetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|c:\\emekwebrepo\\c#\\proje_linq2_connectedmimariurundetay\\projelinq2_urundetay\\urundetay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:urundetay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A7784CF-7F85-49A4-9014-030B0BBAD16F}|ProjeLINQ2_UrunDetay.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrunDetay.Designer.cs",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\UrunDetay.Designer.cs",
+              "RelativeDocumentMoniker": "UrunDetay.Designer.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\UrunDetay.Designer.cs",
+              "RelativeToolTip": "UrunDetay.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wFQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:45:19.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UrunDetay.cs [Design]",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\UrunDetay.cs",
+              "RelativeDocumentMoniker": "UrunDetay.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\UrunDetay.cs [Design]",
+              "RelativeToolTip": "UrunDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:41:13.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\Category.cs",
               "RelativeDocumentMoniker": "Category.cs",
               "ToolTip": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\Category.cs",
               "RelativeToolTip": "Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T21:19:45.326Z"
+              "WhenOpened": "2024-10-26T21:19:45.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,14 +82,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA1wFMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T20:51:35.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\EmekWebRepo\\C#\\Proje_LINQ2_ConnectedMimariUrunDetay\\ProjeLINQ2_UrunDetay\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
