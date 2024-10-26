@@ -25,6 +25,7 @@ namespace ProjeLINQ2_UrunDetay
 
             sql.Open();
             SqlDataReader okuyucu = komut.ExecuteReader();
+            //combobox ın tuttuğu değer
             comboBox1.DisplayMember = "CategoryName";
             comboBox1.ValueMember = "CategoryID";
 
@@ -49,6 +50,32 @@ namespace ProjeLINQ2_UrunDetay
 
         }
 
-        
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            flowLayoutPanel1.Controls.Clear();
+            //comboBox1.ValueMember bu deger secilenID'ye eşit demektir
+            var secilenID = comboBox1.SelectedValue;
+            sql.Open();
+            SqlCommand cmd = new SqlCommand("select * from Products where CategoryID = " + secilenID,sql);
+            SqlDataReader okuyucu = cmd.ExecuteReader();
+            //okuyucu artık verdiğim komutu okuyacak getirecek
+            //butonla getirebilmesi için buton oluşturuyorum
+
+            while (okuyucu.Read())
+            {
+                Button buton = new Button();
+                buton.Name = "b" + okuyucu["ProductID"];
+                buton.Height = 50;
+                buton.AutoSize = true;//tam sığdıracak
+                buton.Text = okuyucu["ProductName"].ToString();
+
+                flowLayoutPanel1.Controls.Add(buton);
+
+            }
+            sql.Close();
+
+
+
+        }
     }
 }
